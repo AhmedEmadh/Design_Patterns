@@ -1,0 +1,7 @@
+D:\GitHub\NewOrderEventExample\bin\Debug\NewOrderEventExample.exe.config
+D:\GitHub\NewOrderEventExample\bin\Debug\NewOrderEventExample.exe
+D:\GitHub\NewOrderEventExample\bin\Debug\NewOrderEventExample.pdb
+D:\GitHub\NewOrderEventExample\obj\Debug\NewOrderEventExample.csproj.AssemblyReference.cache
+D:\GitHub\NewOrderEventExample\obj\Debug\NewOrderEventExample.csproj.CoreCompileInputs.cache
+D:\GitHub\NewOrderEventExample\obj\Debug\NewOrderEventExample.exe
+D:\GitHub\NewOrderEventExample\obj\Debug\NewOrderEventExample.pdb

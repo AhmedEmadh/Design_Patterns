@@ -1,0 +1,7 @@
+D:\GitHub\TempratureChangeEventExample\bin\Debug\TempratureChangeEventExample.exe.config
+D:\GitHub\TempratureChangeEventExample\bin\Debug\TempratureChangeEventExample.exe
+D:\GitHub\TempratureChangeEventExample\bin\Debug\TempratureChangeEventExample.pdb
+D:\GitHub\TempratureChangeEventExample\obj\Debug\TempratureChangeEventExample.csproj.AssemblyReference.cache
+D:\GitHub\TempratureChangeEventExample\obj\Debug\TempratureChangeEventExample.csproj.CoreCompileInputs.cache
+D:\GitHub\TempratureChangeEventExample\obj\Debug\TempratureChangeEventExample.exe
+D:\GitHub\TempratureChangeEventExample\obj\Debug\TempratureChangeEventExample.pdb
